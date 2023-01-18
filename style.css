@@ -1,0 +1,281 @@
+body {
+	font-family:"Radio Canada";
+	color:white;
+	margin:0;
+	overflow-x:hidden;
+	background-color:#2C2C2C;
+	-ms-overflow-style: none;
+ scrollbar-width: none;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+video::-webkit-media-controls-fullscreen-button {
+    display: none;
+}
+.commentBox{
+	width:100%;
+	border:0;
+	height:600px;
+}
+.sidebar{
+	padding-left:1%;
+	background-color:black;
+	padding-top:10px;
+	width:20%;
+	float:left;
+	height:100%;
+	position:fixed;
+	top:0;
+	bottom:0;
+}
+hr{
+	width:90%;
+}
+a{
+	color:white;
+}
+button:{
+	font-family:"Radio Canada";
+}
+button:hover{
+	cursor:pointer;
+}
+.sideLink{
+	font-size:30px;
+	line-height:120%;
+	text-decoration:none;
+}
+.page{
+	width:79%;
+	height:100%;
+	float:right;
+	display:none;
+	position: absolute;
+ left: 21%;
+ top: 0;
+}
+.footer{
+	width:79%;
+	height:100%;
+	float:right;
+	text-align:center;
+	font-size:25px;
+	line-height:0%;
+}
+.banner{
+	text-align:center;
+	background-color:black;
+	margin:0.5%;
+	width:99%;
+	text-align:center;
+	margin-top:1px;
+	font-size:30px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.sidebanner{
+	text-align:center;
+	background-color:black;
+	margin:0.5%;
+	float:left;
+	width:49%;
+	text-align:center;
+	margin-top:1px;
+	font-size:20px;
+	margin-bottom:5px;
+	white-space:nowrap;
+}
+.sidebanner2{
+	text-align:center;
+	background-color:black;
+	float:left;
+	width:49.5%;
+	line-height:120%;
+	text-align:center;
+	font-size:20px;
+	margin-top:0;
+	padding-top:5px;
+	white-space:wrap;
+}
+.poll{
+	margin-top:0;
+	border:none;
+	width:100%;
+	height:100%;
+}
+.ad{
+	float:left;
+	position:relative;
+	background-color:#2C2C2C;
+	border:none;
+	padding:5px;
+	margin:5px;
+	margin-left:0;
+	line-height:130%;
+	width:160px;
+	text-align:center;
+}
+.adimg{
+	width:150px;
+	height:200px;
+	object-fit: cover;
+}
+.adtxt{
+	margin:0;
+	white-space:initial;
+	color:white;
+}
+.gLabel{
+	position: absolute;
+	background-color:grey;
+	padding:5px;
+	margin:0;
+	p: 3px;
+ left: 4px;
+}
+select{
+	font-family:"Radio Canada";
+	font-size:15px;
+	border:none;
+	padding:5px;
+	height:30px;
+	background-color:black;
+	color:white;
+	text-align:left;
+}
+.sbBtn{
+	font-family:"Radio Canada";
+	font-size:15px;
+	border:none;
+	padding:5px;
+	height:30px;
+	background-color:black;
+	color:black;
+	text-align:center;
+}
+select:focus{
+	outline:none;
+}
+input {
+	font-family:"Radio Canada";
+	font-size:15px;
+	border:none;
+	background-color:black; 
+	text-align:left;
+	color:#ffffff;
+	height:20px;
+	padding:5px;
+ width: 20%;
+ -webkit-transition: width 0.1s ease-in-out;
+ transition: width 0.1s ease-in-out;
+}
+input:focus {
+	idth:21%;
+	outline:none;
+}
+.pageThumbCap{
+	width:99%;
+	background-color:grey;
+	line-height:120%;
+	border:none;
+	margin-top:0;
+	margin-bottom:0;
+	margin-left:auto;
+	margin-right:auto;
+	color:black;
+}
+.game{
+	position: relative;
+	background-color:black;
+	border:none;
+	padding:10px;
+	margin:5px;
+	margin-left:5px;
+	line-height:130%;
+	text-align:center;
+}
+.vid{
+	position: relative;
+	background-color:black;
+	border:none;
+	padding:10px;
+	margin:5px;
+	margin-left:0;
+	line-height:130%;
+	text-align:center;
+}
+.gameimg{
+	width:190px;
+	object-fit: cover;
+	height:190px;
+}
+.vidimg{
+	width:250px;
+	height:150px;
+}
+.gametxt{
+	margin:0;
+	white-space:initial;
+	color:white;
+	text-align:left;
+	font-family:"Radio Canada";
+}
+.faveTxt{
+	padding:0;
+	margin:0;
+	margin-bottom:5px;
+	font-size:20px;
+	white-space:initial;
+	color:white;
+	text-align:left;
+	font-family:"Radio Canada";
+	float:left;
+}
+.gameFrame{
+	width:96%;
+	height:500px;
+	display:block;
+	margin:2%;
+	margin-bottom:0;
+	border:1px solid white;
+}
+.gameBar{
+	display:block;
+	width:96%;
+	margin:2%;
+	line-height:20%;
+	height:50px;
+	margin-top:0;
+	margin-bottom:10px;
+	background-color:black;
+	border:1px solid white;
+}
+.barBtn{
+	float:right;
+	font-family:"Radio Canada";
+	font-size:25px;
+	background-color:black;
+	border:1px solid white;
+	height:100%;
+	border-radius:0;
+	color:white;
+}
+.barImg{
+	border:none;
+	height:90%;
+	margin:auto;
+	background-color:white;
+}
+.barLikes{
+	border:none;
+	height:50px;
+	margin:0;
+	width:140px;
+}
+.select2{
+	background-color:#242424;
+	height:20px;
+	padding:0;
+	line-height:120%;
+}

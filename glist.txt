@@ -1,0 +1,885 @@
+id ~||
+name ~||
+keywords ~||
+icon ~||
+genre ~||
+dev ~||
+date ~||
+linktext ~||
+link ~||
+
+~~|%%|~~
+
+paperio2 ~||
+Paper.io ~||
+paper.io io ~||
+https://www.saashub.com/images/app/service_logos/75/9695809c04d5/large.png?1567784435 ~||
+Arcade ~||
+Developer: Voodoo ~||
+11/28/22 ~||
+
+~~|%%|~~
+
+bowman ~||
+Bowman ~||
+bowman bow man bow and arrow angle ~||
+https://assets.codepen.io/2104921/bowman.jpeg ~||
+Fighting ~||
+Developer: unknown ~||
+11/23/22 ~||
+
+~~|%%|~~
+
+tube-jumpers ~||
+Tube Jumpers ~||
+tube jumpers ~||
+https://assets.codepen.io/2104921/tj.jpeg ~||
+2 player / arcade ~||
+Developer: Michael Eichler ~||
+11/23/22 ~||
+
+~~|%%|~~
+
+[no]kirka ~||
+Kirka.io ~||
+kirka.io io krunker ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzm0d4FbLCAgcFfC31typPFsatH3yOlGFZCfGlb7CknA&s ~||
+FPS ~||
+Developer: 𝓍𝒾𝓅#3065 ~||
+11/4/22 ~||
+Visit wiki ~||
+https://kirkaio.fandom.com/wiki/Kirka_Wiki ~||
+
+~~|%%|~~
+
+slowroads ~||
+slowroads ~||
+slowroads slow roads io ~||
+https://i.ytimg.com/vi/lCkZbdVmLHA/maxresdefault.jpg ~||
+Driving ~||
+Developer: anslo.dev ~||
+11/1/2022 ~||
+Donate ~||
+https://ko-fi.com/slowroads ~||
+
+~~|%%|~~
+
+agario ~||
+Agar.io ~||
+agar.io io ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWN41CUpZ1mNxziYcvQIXmNsXYFHLCWPxVZ0x4Q7K6ic4ndLC9BUbQrWR8MsfZHUkBk1Y:https://static.wikia.nocookie.net/gamia_gamepedia_en/images/5/54/Agario.png/revision/latest%3Fcb%3D20201123164520&usqp=CAU ~||
+Casual ~||
+Developer: Matheus Valadares ~||
+11/1/2022 ~||
+Visit wiki ~||
+https://agario.fandom.com/wiki/Agar.io_Wiki ~||
+
+~~|%%|~~
+
+deathchase3 ~||
+Death Chase 3 ~||
+death chase 3 car ~||
+https://assets.codepen.io/2104921/dc3.png ~||
+Driving / Action ~||
+Publisher: friv.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+crossyroad ~||
+Crossy Road ~||
+crossy road ~||
+https://play-lh.googleusercontent.com/2yH_JCxn7D9FttXZViPhmvIEDfRhio5qdLdWJLxcIfh8PjIkVeBgt_Gj7q21dIRp97g ~||
+Casual ~||
+Developer: Hipster Whale ~||
+11/1/2022 ~||
+Visit wiki ~||
+https://crossyroad.fandom.com/wiki/Space_Update ~||
+
+~~|%%|~~
+
+spelunky ~||
+Spelunky ~||
+spelunky caves ~||
+https://assets-prd.ignimgs.com/2021/01/05/spelunky-1-button-1609885393868.jpg ~||
+Adventure ~||
+Developer: Derek Yu ~||
+11/1/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/239350/Spelunky/ ~||
+
+~~|%%|~~
+
+madalin-stunt-cars-3 ~||
+Madalin Stunt Cars ~||
+madalin stunt cars 3 ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMn7PRyy23mGX_92OTC77dcygShkRJb_MQTw:https://softstribe.com/app/uploads/icons/com-trendsetter-madalin-stunt-cars-free-car-racing-icon.jpg&usqp=CAU ~||
+Driving ~||
+Developer: Madalin Stanciu ~||
+11/1/2022 ~||
+
+~~|%%|~~
+
+bobtherobber ~||
+Bob The Robber ~||
+bob the robber ~||
+https://tcf.admeen.org/category/3000/2948/400x400/bob-the-robber.jpg ~||
+Adventure ~||
+Publishers: Kizi, Spil Games ~||
+10/15/2022 ~||
+Visit wiki ~||
+https://meowbeastbobtherobber.fandom.com/wiki/Bob_The_Robber ~||
+
+~~|%%|~~
+
+papaspizzaria ~||
+Papa's Pizzeria ~||
+papa's papas pizzeria pizzaria ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKMNpbutmOVOuippHY3qs6P6_5iRnKCPYAg:https://cms.bitent.com/assets/games/thumbs/ik/217x217/papas_pizzeria_big_611971081717b.png&usqp=CAU ~||
+Simulator ~||
+Developer: Flipline Studios ~||
+10/15/2022 ~||
+Visit wiki ~||
+https://fliplinestudios.fandom.com/wiki/Papa%27s_Pizzeria ~||
+
+~~|%%|~~
+
+papasburgeria ~||
+Papa's Burgeria ~||
+papa's burgeria papas burgeria ~||
+https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/27/e9/60/27e96015-ace0-1a94-b29b-b8873d03d08f/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/1024x1024bb.png ~||
+Simulator ~||
+Developer: Flipline Studios ~||
+10/15/2022 ~||
+Visit wiki ~||
+https://fliplinestudios.fandom.com/wiki/Papa%27s_Burgeria ~||
+
+~~|%%|~~
+
+papasscooperia ~||
+Papa's Scooperia ~||
+papa's papas scooperia scooparia ~||
+https://play-lh.googleusercontent.com/6PkFT1nYqljZNL_h6WcgATAEGLH4jrVjHIegSB9d_KG3AISIzs8dzT4IgddKb60Fb5Lx ~||
+Simulator ~||
+Developer: Flipline Studios ~||
+10/15/2022 ~||
+Visit wiki ~||
+https://fliplinestudios.fandom.com/wiki/Papa%27s_Scooperia ~||
+
+~~|%%|~~
+
+madnessnexus ~||
+Madness Combat ~||
+madness combat project nexus ~||
+https://i1.sndcdn.com/artworks-2STcffJPEbtfr7oK-B1jZuw-t500x500.jpg ~||
+Action / fighting ~||
+Developers: Krinkels and The-Swain ~||
+10/15/2022 ~||
+Visit wiki ~||
+https://madnesscombat.fandom.com/wiki/Madness:_Project_Nexus_(Classic) ~||
+
+~~|%%|~~
+
+gettingoverit ~||
+Getting over it ~||
+getting over it scratch ~||
+https://gettingoverit-game.com/wp-content/uploads/2022/08/getting-over-it-scratch.jpg ~||
+Puzzle / platformer ~||
+Developer: griffpatch ~||
+10/16/2022 ~||
+Walkthrough ~||
+https://www.youtube.com/watch?v=6L9MXDZYMNQ ~||
+
+~~|%%|~~
+
+skyisland2 ~||
+Sky Island 2 ~||
+sky island 2 scratch ~||
+https://assets.codepen.io/2104921/skyisland2.png ~||
+Shooter / fighting ~||
+Developer: flynn2019pw ~||
+10/16/2022 ~||
+
+~~|%%|~~
+
+madburger3 ~||
+Mad Burger 3 ~||
+mad burger 3 mean burger man food game ~||
+https://play-lh.googleusercontent.com/NWR5dfBtwqK729Rdihc9g-WYpm2gyOg4yxEB8coWDgwSDoWMIJqTuGgeouYBFy_FuHY=w240-h480-rw ~||
+Simulator, Casual ~||
+Developer: Creepy Brothers Studio ~||
+10/18/2022 ~||
+
+~~|%%|~~
+
+btd1 ~||
+Bloons TD ~||
+bloons td tower defense 1 ~||
+https://i.pinimg.com/originals/1d/a4/5e/1da45ef58fdaa945a4933f61b4d1ef2d.png ~||
+Idle ~||
+Developer: Ninja Kiwi ~||
+10/16/2022 ~||
+Visit wiki ~||
+https://bloons.fandom.com/wiki/Bloons_Tower_Defense_(Game) ~||
+
+~~|%%|~~
+
+btd4 ~||
+Bloons TD4 ~||
+bloons td tower defense 4 ~||
+https://assets.codepen.io/2104921/btd4.png ~||
+Idle ~||
+Developer: Ninja Kiwi ~||
+10/16/2022 ~||
+Visit wiki ~||
+https://bloons.fandom.com/wiki/Bloons_TD_4 ~||
+
+~~|%%|~~
+
+run3 ~||
+Run 3 ~||
+run 3 alien ~||
+https://assets1.ignimgs.com/2018/06/18/run-3-0-button-1529363477468.jpg ~||
+Runner ~||
+Publisher: player03.com ~||
+10/10/2022 ~||
+Visit wiki ~||
+https://run.fandom.com/wiki/Run_3 ~||
+
+~~|%%|~~
+
+tanuki-sunset ~||
+Tanuki Sunset ~||
+tanuki sunset racoon skateboarding retro neon highway ~||
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/34e2cad0-8326-4a17-8d9f-f37832154061/dejyyx3-09639d42-5db7-4c5e-8c89-ee71694533c2.png ~||
+Runner ~||
+Developer: Squid Squad games ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/1251460/Tanuki_Sunset/ ~||
+
+~~|%%|~~
+
+subwaysurfers ~||
+Subway Surfers ~||
+subway surfers ~||
+https://play-lh.googleusercontent.com/s6JGmEQedDR2jR8qQGi5hDAaMXZzI7aI7EY7mrF9OgCfUZ0nXElxqo5z12XFi7TEJ8g ~||
+Runner ~||
+Developer: Kiloo and SYBO Games ~||
+10/10/2022 ~||
+Visit wiki ~||
+https://subwaysurf.fandom.com/wiki/Subway_Surfers_Wiki ~||
+
+~~|%%|~~
+
+gunmayhem-r ~||
+Gun Mayhem Redux ~||
+gun mayhem redux ~||
+https://assets.codepen.io/2104921/gmr.jpeg ~||
+Fighting ~||
+Developer: Kevin Gu ~||
+10/10/2022 ~||
+Creator twitter ~||
+https://twitter.com/gunmayhemdev ~||
+
+~~|%%|~~
+
+gunmayhem2 ~||
+Gun Mayhem 2 ~||
+gun mayhem 2 ~||
+https://assets.codepen.io/2104921/gm2.jpeg ~||
+Fighting ~||
+Developer: Kevin Gu ~||
+10/10/2022 ~||
+Creator twitter ~||
+https://twitter.com/gunmayhemdev ~||
+
+~~|%%|~~
+
+retro-bowl ~||
+Retrobowl ~||
+retro bowl ~||
+https://pbs.twimg.com/profile_images/1217942835527409665/swRMqEkK_400x400.jpg ~||
+Sports ~||
+Developer: New Star Games ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+drifthunters ~||
+Drift Hunters ~||
+drift hunters drifting ~||
+https://play-lh.googleusercontent.com/BTNEh2Z3EYM6CRPSNV4vXDFaMhVSaZdcZlbE4Fv_If_Ad-TcJzpAjAbCpioXmgcrIS63 ~||
+Driving ~||
+Developer: Ilya Kaminetsky ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+jetboy ~||
+Jetboy ~||
+jetboy jetpack ~||
+https://assets.codepen.io/2104921/jetboy.png ~||
+Platformer ~||
+Publisher: coolmathgames.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+cookieclicker ~||
+Cookie Clicker ~||
+cookie clicker ~||
+https://gamificationplus.uk/wp-content/uploads/2016/03/Capture1.png ~||
+Simulator ~||
+Developer: orteil ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+myfriendpedro ~||
+My Friend Pedro ~||
+my friend pedro shooting banana parkour ~||
+https://cdn.80.lv/api/upload/post/6909/images/5d2dbe15ba787/widen_2440x0.png ~||
+Platformer / Action ~||
+Developer: DeadToast Entertainment ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/557340/My_Friend_Pedro/ ~||
+
+~~|%%|~~
+
+pedro-arena ~||
+MFP Arena ~||
+my friend pedro arena shooting banana parkour ~||
+https://cdn.80.lv/api/upload/post/6909/images/5d2dbe15ba787/widen_2440x0.png ~||
+Platformer / Action ~||
+Developer: DeadToast Entertainment ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/557340/My_Friend_Pedro/ ~||
+
+~~|%%|~~
+
+taptricks ~||
+Tap Tricks Demo ~||
+tap tricks skateboarding ~||
+https://assets.codepen.io/2104921/taptricks.png ~||
+Platformer ~||
+Developer: Salman Shurie and Britt Brady ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+redarcher ~||
+Red Archer ~||
+red archer bow and arrow archery slow motion bullet time ~||
+https://assets.codepen.io/2104921/redarhcer.png ~||
+Shooter ~||
+Developer: Bad Piggy ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+basketbros ~||
+Basketbros.io ~||
+basketbros io ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVBWWs5bLUMrteI34FcfTW49WHUGhw6cAg8XTWqLd5s215CD0JqolH89iTRhjJnMK-bY:https://www.basketballlegends.club/upload/images-big/basketbros.jpg&usqp=CAU ~||
+Sports ~||
+Developer: Blue Wizard ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+templerun2 ~||
+Temple Run 2 ~||
+temple run 2 ~||
+https://assets.codepen.io/2104921/tr2.png ~||
+Runner ~||
+Developer: Imangi Studios ~||
+10/10/2022 ~||
+Visit wiki ~||
+https://templerun.fandom.com/wiki/Temple_Run_2 ~||
+
+~~|%%|~~
+
+motox3m ~||
+Moto x3m ~||
+moto x3m motorcycle ~||
+https://img.utdstc.com/icon/404/aeb/404aeb2ec5c64c096c3e7b77ece99dc3f977a4d60034299665ef17a23dbccd5d:200 ~||
+Platformer ~||
+Developer: Mad Puffers ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+turbomotoracer ~||
+Turbo moto racer ~||
+turbo moto racer motorcycle highway ~||
+https://assets.codepen.io/2104921/tmr.png ~||
+Driving ~||
+Publisher: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+sort-the-court ~||
+Sort the Court ~||
+sort the court king ~||
+https://assets.codepen.io/2104921/sortcourt.png ~||
+Simulator ~||
+Developer: Graeme Borland ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+timeshooter2 ~||
+Time Shooter 2 ~||
+time shooter 2 slow motion  ~||
+https://assets.codepen.io/2104921/ts2.PNG ~||
+Shooter ~||
+Developer: GGM Gogoman ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+timeshooter3 ~||
+Time Shooter 3 ~||
+time shooter 3 slow motion  ~||
+https://assets.codepen.io/2104921/ts3.PNG ~||
+Shooter ~||
+Developer: GGM Gogoman ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+wordle ~||
+Wordle + ~||
+wordle unlimited wordle plus wordle+ wordle + ~||
+https://deseret.brightspotcdn.com/dims4/default/14c454e/2147483647/strip/false/crop/1230x1230+0+0/resize/1230x1230!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FO1oaQ9moTo6-qDMDLTMhjdNOaeM%3D%2F0x0%3A1230x1230%2F1230x1230%2Ffilters%3Afocal%28615x615%3A616x616%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23307094%2FScreen_Shot_2022_01_30_at_10.05.09_PM.png ~||
+Puzzle ~||
+Developer: mikhad ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+idle-breakout ~||
+Idle Breakout ~||
+idle breakout ~||
+https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ ~||
+Casual / simulator ~||
+Developer: kodiqi ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+fnf ~||
+Friday night funkin ~||
+fnf friday night funkin ~||
+https://i1.sndcdn.com/artworks-ZpznP0W5HRj16UR8-2CRmGg-t500x500.jpg ~||
+Rhythm ~||
+Developer: ninja muffin 24 ~||
+10/10/2022 ~||
+Play full game ~||
+https://www.newgrounds.com/portal/view/770371 ~||
+
+~~|%%|~~
+
+portal ~||
+Portal flash ~||
+portal flash ~||
+https://assets.codepen.io/2104921/portalflash.png ~||
+Platformer ~||
+Developer: We Create Stuff ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/400/Portal/ ~||
+
+~~|%%|~~
+
+99balls ~||
+99 balls ~||
+99 balls ~||
+https://ik.imagekit.io/sjyfpsp1n/portal/html5games/images/tmp/99BallsTeaser.jpg ~||
+Puzzle ~||
+Developer: Diamond Games ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+ageofwar ~||
+Age of war ~||
+age of war medival ~||
+https://assets.codepen.io/2104921/ageofwar_1.png ~||
+Casual / fighting ~||
+Developer: Max Games Studios ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+linerider ~||
+Line Rider ~||
+line rider drawing sledding ~||
+https://pb583030755.peerboard.com/583030755/file/7c6395f0-45b1-43db-96fc-dbd934f0e33e ~||
+Casual ~||
+Developer: inXile entertainment ~||
+10/10/2022 ~||
+Play full version ~||
+https://www.linerider.com/ ~||
+
+~~|%%|~~
+
+tankduel3d ~||
+Tank Duel 3D ~||
+tank duel 3d ~||
+https://assets.codepen.io/2104921/td3d.jpeg ~||
+2 player / arcade ~||
+Developer: twoplayergames.org ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+tetris ~||
+Tetris ~||
+tetris sex simulator ~||
+https://irate4x4.com/media/classic-tetris-logo-png.31125/full ~||
+Puzzle ~||
+Developer: rossipotti ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+tubejumpers ~||
+Tube Jumpers ~||
+tube jumpers ~||
+https://is2-ssl.mzstatic.com/image/thumb/Purple60/v4/ac/67/c3/ac67c32a-c3a5-be5c-4f3d-13258950e527/source/512x512bb.jpg ~||
+2 player ~||
+Developer: Michael Eichler ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+worlds-hardest-game ~||
+Hardest Game ~||
+worlds hardest game ~||
+https://store-images.microsoft.com/image/apps.17710.13510798885956294.63a83af1-649d-4866-930d-e41e6726284a.59da368e-f058-4860-91bd-069d1c2b6cdf?mode=scale&q=90&h=200&w=200&background=%23464646 ~||
+Misc ~||
+Developer: Batuhan Ertan ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+superbuddykick ~||
+Super Buddy Kick ~||
+super buddy kick torture lmao ~||
+http://static3.ufreegames.io/covers/super/kick-the-buddy.jpg ~||
+Misc ~||
+Developer: kiz10.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+impossiblequiz2 ~||
+Impossible Quiz 2 ~||
+impossible quiz 2 ~||
+https://assets.codepen.io/2104921/iq2.png ~||
+Misc ~||
+Developer: Slapp-me-do ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+exhibitofsorrows ~||
+Exhibit of Sorrows ~||
+exhibit of sorrows clown museum ~||
+https://assets.codepen.io/2104921/exhibit.jpg ~||
+Horror ~||
+Developer: Adayofjoy ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+iceagebaby ~||
+Ice Age Baby ~||
+kill the ice age baby meme best game ever ~||
+https://assets.codepen.io/2104921/killtheiceagy.PNG ~||
+Adventure / horror ~||
+Developer: kypello ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+hordekiller ~||
+Horde Killer ~||
+horde killer: you vs 100 zombies shooter parkour ~||
+https://assets.codepen.io/2104921/hordekill.jpeg ~||
+Action / shooter ~||
+Developer: GGM gogoman ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+dreader ~||
+Dreader ~||
+dreader computer mouse ~||
+https://assets.codepen.io/2104921/dreaderpng.png ~||
+Horror ~||
+Developer: Donitz ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+among-us ~||
+Among us 1p ~||
+among us ~||
+https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec ~||
+Action ~||
+Developer: klopity ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/945360/Among_Us/ ~||
+
+~~|%%|~~
+
+incredibox ~||
+Incredibox ~||
+incredibox rhythm music ~||
+https://upload.wikimedia.org/wikipedia/en/8/82/Incredibox-logo.png ~||
+Music / Casual ~||
+Developer: So Far So Good ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+shellshockers ~||
+Shell shockers ~||
+shell shockers egg multiplayer ~||
+https://cdn-images.threadless.com/threadless-media/artist_shops/shops/bluewizard/products/1617669/original-1621960642-2ac607f273a319bd81ac2f36de28fac5.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJ0cmltIiwgW2ZhbHNlLCBmYWxzZV0sIHt9XSwgWyJyZXNpemUiLCBbXSwgeyJ3aWR0aCI6IDk5Ni4wLCAiYWxsb3dfdXAiOiBmYWxzZSwgImhlaWdodCI6IDk5Ni4wfV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzEyMDAsIDEyMDBdLCB7ImJhY2tncm91bmQiOiAiZmZmZmZmIn1dLCBbInJlc2l6ZSIsIFs4MDBdLCB7fV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzgwMCwgODAwLCAiI2ZmZmZmZiJdLCB7fV0sIFsiZW5jb2RlIiwgWyJqcGciLCA4NV0sIHt9XV19 ~||
+Shooter ~||
+Developer: Blue Wizard ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+slope ~||
+Slope ~||
+slope ball hill game ~||
+https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs ~||
+Endless ~||
+Developer: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+townscaper ~||
+Townscaper ~||
+townscaper building ~||
+https://rawfury.com/games/townscaper/townscaper-217033606/ ~||
+Casual ~||
+Developer: Raw Fury ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/1291340/Townscaper/ ~||
+
+~~|%%|~~
+
+cattrap ~||
+Cat Trap ~||
+cat trap hexagon ~||
+https://assets.codepen.io/2104921/ct.png ~||
+Puzzle ~||
+Developer: Llerah ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+championisland ~||
+Champion Island ~||
+champion island google ~||
+https://assets.codepen.io/2104921/championisland.PNG ~||
+Adventure ~||
+Developer: google ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+elasticman ~||
+stretchy man game ~||
+best game ever elastic man stretchy ~||
+https://assets.codepen.io/2104921/em.png ~||
+Casual ~||
+Developer: adult swim games ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+snowbattle ~||
+Snowbattle.io ~||
+snow battle io ~||
+https://connect-prd-cdn.unity.com/20200827/udp/images/647e8f6b-ecfa-4e5b-ac40-7867d790efd5_ic.png ~||
+Casual / fighting ~||
+Developer: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+rooftop-snipers ~||
+Rooftop Snipers ~||
+rooftop snipers ~||
+https://assets.codepen.io/2104921/rooftopsnipers.png ~||
+2 player / fighting ~||
+Developer: 2playergames.org ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+getaway-shootout ~||
+Getaway Shootout ~||
+getaway shootout ~||
+https://assets.codepen.io/2104921/gs.png ~||
+2 player / fighter ~||
+Developer: 2playergames.org ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+ducklife3 ~||
+Duck Life 3 ~||
+duck life 3 ~||
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEj6LwhwgZkjHq_AghTfYlnX0AQmS8p2rAFGh1EoMruNtwk8QM9XQW7JC-Dl1R6-IJhYM:https://lookaside.fbsbx.com/lookaside/crawler/media/%3Fmedia_id%3D3264229280306316&usqp=CAU ~||
+Simulator ~||
+Developer: Wix Games ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+ducklife4 ~||
+Duck Life 4 ~||
+duck life 4 ~||
+https://4ts097296.netlify.app/projects/ducklife4/splash.jpg ~||
+Simulator ~||
+Developer: Wix Games ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+vex3 ~||
+Vex 3 ~||
+vex 3 ~||
+https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/23/cc/ea/23ccea49-28e1-2327-8b95-5d05a00a312e/source/512x512bb.jpg ~||
+Platformer ~||
+Developer: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+vex4 ~||
+Vex 4 ~||
+vex 4 ~||
+https://store-images.s-microsoft.com/image/apps.16029.14622517353732960.576abfa8-e499-4dbe-adc4-750c6ba65c7f.72a18063-f8b6-41b6-a6ca-8d549bd33d53?mode=scale&q=90&h=200&w=200&background=%23FFFFFF ~||
+Platformer ~||
+Developer: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+draw-the-hill ~||
+Draw the hill ~||
+drawing draw the hill car ~||
+https://assets.codepen.io/2104921/dth.png ~||
+Casual / driving ~||
+Publisher: Stelennnn ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+death-run-3d ~||
+Death Run 3d ~||
+death run 3d neon ~||
+https://assets.codepen.io/2104921/deathrun3d.png ~||
+Endless ~||
+Developer: Y8.com ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+ctr ~||
+Cut the rope ~||
+cut the rope alien ~||
+https://assets.codepen.io/2104921/ctr-logo.png ~||
+Puzzle / Casual ~||
+Developer: ZeptoLab ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+cannon-basketball-4 ~||
+Cannon Basketball 4 ~||
+cannon basketball 4 shoot ~||
+https://kizicdn.com/system/static/thumbs/tile_thumb/1613/thumb150_original_300.jpg?1556202642 ~||
+Sports / Puzzle ~||
+Developer: idk lmao ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+bloxors ~||
+Bloxorz ~||
+bloxors block game ~||
+https://4ts097296.netlify.app/projects/bloxors/block.png ~||
+Puzzle ~||
+Developer: DX Interactive ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+stack ~||
+Stack ~||
+stack ~||
+https://play-lh.googleusercontent.com/WRlGQXa9Pav7YZPW-P5X8PAga0lF2T1BAzmasxB9qV_1_om5DgmMbxOFo2SK8ZN5K5k ~||
+Endless ~||
+Developer: Steve Gardner ~||
+10/10/2022 ~||
+See creators work ~||
+https://codepen.io/ste-vg ~||
+
+~~|%%|~~
+
+bindingofissac ~||
+Binding of Isacc ~||
+binding of isacc issac ~||
+https://assets-prd.ignimgs.com/2021/12/21/bindingofisaac-1640047506280.jpg?width=300&crop=1%3A1%2Csmart ~||
+Action / adventure ~||
+Developer: Edmund McMiller ~||
+10/10/2022 ~||
+Buy full game ~||
+https://store.steampowered.com/app/113200/The_Binding_of_Isaac/ ~||
+
+~~|%%|~~
+
+basketball-stars ~||
+Basketball Stars ~||
+basketball stars ~||
+https://assets.codepen.io/2104921/baskball.jpg ~||
+Sports ~||
+Developer: Miniclip ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+appel ~||
+Appel ~||
+apple scratch ~||
+https://assets.codepen.io/2104921/appel.png ~||
+Platformer ~||
+Developer: griffpatch ~||
+10/10/2022 ~||
+
+~~|%%|~~
+
+2048 ~||
+2048 ~||
+2048 twenty forty eight ~||
+http://gabrielecirulli.g.io/2048/meta/og_image.png ~||
+Puzzle ~||
+Developer: Gabriele Cirulli ~||
+10/10/2022 ~||
